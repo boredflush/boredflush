@@ -1,16 +1,28 @@
-## Hi there 👋
+# BoredFlush
 
-<!--
-**boredflush/boredflush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student • Beginner Programmer • Always Learning
 
-Here are some ideas to get you started:
+Hello! I'm BoredFlush.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student who recently started learning programming. Most of my repositories are experiments, practice projects, and things I build while studying. My goal is simple: learn a little more every day and have fun creating things.
+
+---
+
+## What You'll Find Here
+
+🧩 Small projects and coding practice
+
+🎮 Experiments with game development
+
+🐧 Linux-related learning
+
+🔨 Random ideas turned into code
+
+📚 Projects made while studying
+
+---
+
+## Current Mission
+
+```text
+[■■■■■■□□□□] Learning Programming
