@@ -89,11 +89,11 @@ Linux
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://open.spotify.com/user/SEU_USUARIO">
+<a href="https://open.spotify.com/user/BoredF.exe">
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
-<a href="https://steamcommunity.com/id/SEU_USUARIO">
+<a href="https://steamcommunity.com/id/BoredFlush">
 <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
