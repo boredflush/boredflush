@@ -21,7 +21,7 @@ I'm a student who recently started learning programming. Most of my repositories
 📚 Projects made while studying
 
 ---
-<img src="img/tenor.gif" alt="BoredFlush GIF" width="200">
+<img src="img/tenor.gif" alt="BoredFlush GIF" width="500">
 
 ## Current Mission
 
