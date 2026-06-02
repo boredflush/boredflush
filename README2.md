@@ -1,6 +1,8 @@
 <div align="center">
 
-# hey, i'm boredflush 
+<img src="https://media.tenor.com/5wXnQ3M8P5QAAAAi/megaman.gif" width="120">
+
+# hey, i'm boredflush
 
 *"learning one bug at a time."*
 
@@ -8,7 +10,9 @@
 
 ---
 
-## 🚀 about me
+## 💙 about me
+
+<img align="right" src="https://media.tenor.com/X8L0kLx9P6QAAAAi/mega-man.gif" width="100">
 
 - 🎓 SAD student
 - 💻 Beginner developer
@@ -17,9 +21,13 @@
 - 🎵 Music fan
 - 🌎 From Brazil
 
+<br>
+
 ---
 
-## 🛠️ currently learning
+## 🔵 currently learning
+
+<img align="right" src="https://media.tenor.com/LT6bLzN3nWQAAAAi/megaman-running.gif" width="100">
 
 ```text
 C
@@ -31,18 +39,26 @@ Git & GitHub
 Linux
 ```
 
+<br>
+
 ---
 
-## 🎯 goals
+## ⚡ goals
+
+<img align="right" src="https://media.tenor.com/G4f9lL0pMZAAAAAi/megaman-shooting.gif" width="100">
 
 - Build useful projects
 - Improve my coding skills
 - Learn more about open source
 - Become a better developer every day
 
+<br>
+
 ---
 
 ## 🎮 things i enjoy
+
+<img align="right" src="https://media.tenor.com/NkzG0rG6iY4AAAAi/megaman.gif" width="100">
 
 - Retro games
 - Minecraft
@@ -50,6 +66,8 @@ Linux
 - Linux customization
 - Music
 - Technology
+
+<br>
 
 ---
 
@@ -65,11 +83,19 @@ Linux
 
 ## 🌐 find me around the web
 
-- GitHub: https://github.com/boredflush
+<div align="center">
+
+<a href="https://github.com/boredflush">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
+
+<img src="https://media.tenor.com/5wXnQ3M8P5QAAAAi/megaman.gif" width="120">
 
 ```c
 while(alive){
