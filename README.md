@@ -21,7 +21,9 @@ I'm a student who recently started learning programming. Most of my repositories
 📚 Projects made while studying
 
 ---
-
+<a href="URL_DE_DESTINO">
+  <img src=["seu-arquivo.gif](https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415)" alt="Descrição do GIF">
+</a>
 ## Current Mission
 
 ```text
