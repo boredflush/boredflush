@@ -45,7 +45,7 @@ Linux
 
 ## ⚡ goals
 
-<img align="right" src="https://media.tenor.com/G4f9lL0pMZAAAAAi/megaman-shooting.gif" width="100">
+<img align="right" src="https:/img/bot.gif" width="100">
 
 - Build useful projects
 - Improve my coding skills
