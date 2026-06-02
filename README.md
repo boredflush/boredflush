@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://media.tenor.com/5wXnQ3M8P5QAAAAi/megaman.gif" width="120">
+<img src="img/megaman.gif" width="140">
 
 # hey, i'm boredflush
+
+### 🎓 student • 💻 beginner developer • 🐧 linux enthusiast
 
 *"learning one bug at a time."*
 
@@ -12,34 +14,43 @@
 
 ## 💙 about me
 
-<img align="right" src="https://media.tenor.com/X8L0kLx9P6QAAAAi/mega-man.gif" width="100">
+<img align="right" src="img/Bot.gif" width="140">
 
-- 🎓 SAD student
+- 🎓 Systems Analysis and Development student
 - 💻 Beginner developer
 - 🐧 Linux enthusiast
 - 🎮 Gamer
 - 🎵 Music fan
-- 🌎 From Brazil
+- 🇧🇷 From Brazil
+- 🚀 Always learning new things
 
-<br>
+<br><br><br>
 
 ---
 
 ## 🔵 currently learning
 
-<img align="right" src="https://media.tenor.com/LT6bLzN3nWQAAAAi/megaman-running.gif" width="100">
+<div align="center">
+
+<img src="img/C.png" width="50">
+<img src="img/sql.png" width="50">
+<img src="img/html.png" width="50">
+<img src="img/css.png" width="50">
+<img src="img/js.webp" width="50">
+<img src="img/git.svg" width="50">
+<img src="img/linux.png" width="50">
+
+</div>
 
 ```text
-C
-SQL
-HTML
-CSS
-JavaScript
-Git & GitHub
-Linux
+▰ C
+▰ SQL
+▰ HTML
+▰ CSS
+▰ JavaScript
+▰ Git & GitHub
+▰ Linux
 ```
-
-<br>
 
 ---
 
@@ -50,15 +61,16 @@ Linux
 - Build useful projects
 - Improve my coding skills
 - Learn more about open source
+- Create games and applications
 - Become a better developer every day
 
-<br>
+<br><br>
 
 ---
 
 ## 🎮 things i enjoy
 
-<img align="right" src="https://media.tenor.com/NkzG0rG6iY4AAAAi/megaman.gif" width="100">
+<img align="right" src="img/megaman.gif" width="120">
 
 - Retro games
 - Minecraft
@@ -66,18 +78,21 @@ Linux
 - Linux customization
 - Music
 - Technology
+- Open-source software
 
-<br>
+<br><br>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 github stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&theme=tokyonight">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=tokyonight">
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
@@ -102,18 +117,31 @@ Linux
 </a>
 
 </div>
+
+---
+
+## 🧩 current status
+
+```text
+Coding..... ████████░░ 80%
+Learning... █████████░ 90%
+Sleep...... ██░░░░░░░░ 20%
+```
+
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/5wXnQ3M8P5QAAAAi/megaman.gif" width="120">
+<img src="img/megaman.gif" width="140">
 
 ```c
-while(alive){
+while (alive) {
     learn();
     code();
     repeat();
 }
 ```
+
+⭐ Thanks for visiting my profile!
 
 </div>
