@@ -97,7 +97,7 @@ Linux
 <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/SEU_USUARIO">
+<a href="https://linkedin.com/in/_bored_flush">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
