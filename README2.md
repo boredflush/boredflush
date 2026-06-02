@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm boredflush 👋
+# hey, i'm boredflush 
 
 *"learning one bug at a time."*
 
@@ -10,11 +10,11 @@
 
 ## 🚀 about me
 
-- 🎓 Computer Science student
+- 🎓 SAD student
 - 💻 Beginner developer
 - 🐧 Linux enthusiast
 - 🎮 Gamer
-- 🎵 Michael Jackson fan
+- 🎵 Music fan
 - 🌎 From Brazil
 
 ---
@@ -23,7 +23,7 @@
 
 ```text
 C
-Python
+SQL
 HTML
 CSS
 JavaScript
