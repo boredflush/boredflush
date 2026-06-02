@@ -45,7 +45,7 @@ Linux
 
 ## ⚡ goals
 
-<img align="right" src="img/Bot.gif" width="250">
+<img align="right" src="img/Bot.gif" width="150">
 
 - Build useful projects
 - Improve my coding skills
