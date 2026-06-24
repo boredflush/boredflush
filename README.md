@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 github stats
+## 📘 github stats
 
 <table align="center"><tr>
   <td>
