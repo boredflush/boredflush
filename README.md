@@ -11,8 +11,8 @@
 <p align="center"><i>"learning one bug at a time."</i></p>
 
 <p align="center">
-  <img src="img/tenor.gif" width="160" />
-  <img src="img/megaman.gif" width="160" />
+  <img src="img/tenor.gif" width="320" />
+  <img src="img/megaman.gif" width="320" />
 </p>
 
 ---
