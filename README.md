@@ -23,7 +23,7 @@
   <a href="https://portifolio8.netlify.app/">
     <img src="https://img.shields.io/badge/Website-0000FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seuusuario">
+  <a href="https://www.linkedin.com/in/bored-flush-undefined-926a103b8">
     <img src="https://img.shields.io/badge/LinkedIn-0033CC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://steamcommunity.com/id/seuusuario">
