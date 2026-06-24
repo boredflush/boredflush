@@ -1,6 +1,6 @@
 # 🌐 hey, i'm boredflush
 
-### 🎓 student • 💻 beginner developer • 🐧 linux enthusiast
+###  student •  beginner developer •  linux enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/🐧_Linux-Enthusiast-0000FF?style=for-the-badge&logoColor=white" />
