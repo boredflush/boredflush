@@ -16,7 +16,7 @@
 
 ## 💙 about me
 
-<img align="right" src="img/Bot.gif" width="180">
+<img align="right" src="img/Bot.gif" width="240">
 
 * 🎓 **Systems Analysis and Development student**
 * 💻 **Beginner developer**
@@ -32,20 +32,6 @@
 
 ## 🔵 currently learning
 
-<div align="center">
-
-<img src="img/C.png" width="60" alt="C">   
-<img src="img/sql.png" width="60" alt="SQL">   
-<img src="img/html.png" width="60" alt="HTML">   
-<img src="img/css.png" width="60" alt="CSS">   
-<img src="img/js.webp" width="60" alt="JS">   
-<img src="img/git.svg" width="60" alt="Git">   
-<img src="img/linux.png" width="60" alt="Linux">
-
-</div>
-
 ```text
-▰ C              ▰ JavaScript
-▰ SQL            ▰ Git & GitHub
-▰ HTML           ▰ Linux
-▰ CSS
+ [ C ]          [ SQL ]          [ HTML ]          [ CSS ]
+ [ JavaScript ]          [ Git & GitHub ]          [ Linux ]
