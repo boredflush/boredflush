@@ -20,7 +20,7 @@
 ## 🔗 connect with me
 
 <p align="center">
-  <a href="(https://portifolio8.netlify.app/)">
+  <a href="https://portifolio8.netlify.app/">
     <img src="https://img.shields.io/badge/Website-0000FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/seuusuario">
