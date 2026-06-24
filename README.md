@@ -29,7 +29,8 @@
   <a href="https://steamcommunity.com/profiles/76561198422921072">
     <img src="https://img.shields.io/badge/Steam-0055FF?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://discord.gg/seulink">
+  <a href="https://discord.gg/boredflush
+">
     <img src="https://img.shields.io/badge/Discord-0000FF?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
