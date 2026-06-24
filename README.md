@@ -3,9 +3,15 @@
 ###                 student •                       beginner developer •                linux enthusiast
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐧_Linux-Enthusiast-0000FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/📚_Student-SAD-0033CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/⌨_Developer-Beginner-0055FF?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-0000FF?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C-Programming-0055FF?style=for-the-badge&logo=c&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Student-SAD-0033CC?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Developer-Beginner-0055FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </p>
 
 <p align="center"><i>"Running through the Cyber world"</i></p>
