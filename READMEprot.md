@@ -1,12 +1,19 @@
 # 🌌 hey, i'm boredflush
 
-<div align="center">
-  <img src="./img/Bot.gif" width="250">
-</div>
-
 ### 🎓 student • 💻 beginner developer • 🐧 linux enthusiast
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-blue?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-SAD-green?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-Beginner-purple?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 *"learning one bug at a time."*
+
+<p align="center">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAi/cat-computer.gif" width="180">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/cute-cat.gif" width="180">
+</p>
 
 ---
 
@@ -24,30 +31,15 @@
 
 ## 🔗 connect with me
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="SEU_SITE">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox-browser&logoColor=white">
-</a>
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](SEU_LINK)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](SEU_LINK)
 
 ---
 
 ## 🔵 currently learning
 
-<p>
-  <img src="./img/C.png" height="64">
-  <img src="./img/html.png" height="64">
-  <img src="./img/css.png" height="64">
-  <img src="./img/js.webp" height="64">
-  <img src="./img/sql.png" height="64">
-  <img src="./img/linux.png" height="64">
-  <img src="./img/git.svg" height="64">
-</p>
-
----
-
-<div align="center">
-  <img src="./img/megaman.gif" width="300">
-</div>
+- 🐧 Linux & Open Source
+- 💻 Web Development
+- ☕ Java
+- 🗄️ Databases
+- 📚 Software Engineering
