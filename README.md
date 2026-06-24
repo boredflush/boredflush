@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="img/tenor.gif" width="320" />
-  <img src="img/megaman.gif" width="320" />
+  <img src="img/megaman.gif" width="310" />
 </p>
 
 ---
