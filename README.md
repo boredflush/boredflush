@@ -38,13 +38,13 @@
 
 ## 💙 about me
 
-- 🎓 Systems Analysis and Development student
-- 💻 Beginner developer
-- 🐧 Linux enthusiast
-- 🎮 Gamer (Pokémon, CS & Valorant)
-- 🎵 Music fan (City Pop & Vocaloid)
-- 🇧🇷 From Brazil
-- 🚀 Always learning new things
+-  Systems Analysis and Development student
+-  Beginner developer
+-  Linux enthusiast
+- Gamer (Pokémon, Megaman, Valorant)
+- Music fan (City Pop, Jazz fusion, 80s/90/00s)
+- 🇧🇷/ From Brazil
+-  Always learning new things
 
 ---
 
