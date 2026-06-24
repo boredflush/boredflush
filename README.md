@@ -11,8 +11,8 @@
 <p align="center"><i>"learning one bug at a time."</i></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAi/cat-computer.gif" width="160" />
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/cute-cat.gif" width="160" />
+  <img src="img/tenor.gif" width="160" />
+  <img src="img/megaman.gif" width="160" />
 </p>
 
 ---
@@ -66,13 +66,13 @@
 
 <table align="center"><tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=0000FF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&theme=transparent&title_color=0000FF&text_color=0033CC&icon_color=0000FF&border_color=0000FF&bg_color=E8F0FF" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff&bg_color=0000FF" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=transparent&title_color=0000FF&text_color=0033CC&border_color=0000FF&bg_color=E8F0FF" />
   </td>
 </tr></table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boredflush&theme=transparent&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=ffffff&background=0000FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boredflush&theme=transparent&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0033CC&currStreakLabel=0000FF&sideLabels=0033CC&dates=0055FF&border=0000FF&background=E8F0FF" />
 </p>
