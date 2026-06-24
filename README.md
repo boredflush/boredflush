@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/bored-flush-undefined-926a103b8">
     <img src="https://img.shields.io/badge/LinkedIn-0033CC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://steamcommunity.com/id/seuusuario">
+  <a href="https://steamcommunity.com/profiles/76561198422921072">
     <img src="https://img.shields.io/badge/Steam-0055FF?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   <a href="https://discord.gg/seulink">
