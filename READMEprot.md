@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/megaman.gif" width="140">
+<img src="img/megaman.gif" width="130">
 
 # hey, i'm boredflush
 
@@ -14,17 +14,24 @@
 
 ## 💙 about me
 
-<img align="right" src="img/Bot.gif" width="140">
-
-- 🎓 Systems Analysis and Development student
-- 💻 Beginner developer
-- 🐧 Linux enthusiast
-- 🎮 Gamer
-- 🎵 Music fan
-- 🇧🇷 From Brazil
-- 🚀 Always learning new things
-
-<br><br><br>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Systems Analysis and Development student</li>
+        <li>💻 Beginner developer</li>
+        <li>🐧 Linux enthusiast</li>
+        <li>🎮 Gamer (Pokémon, CS & Valorant)</li>
+        <li>🎵 Music fan (City Pop & Vocaloid)</li>
+        <li>🇧🇷 From Brazil</li>
+        <li>🚀 Always learning new things</li>
+      </ul>
+    </td>
+    <td width="200px" align="center">
+      <img src="img/Bot.gif" width="130">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,13 +39,13 @@
 
 <div align="center">
 
-<img src="img/C.png" width="50">
-<img src="img/sql.png" width="50">
-<img src="img/html.png" width="50">
-<img src="img/css.png" width="50">
-<img src="img/js.webp" width="50">
-<img src="img/git.svg" width="50">
-<img src="img/linux.png" width="50">
+<img src="img/C.png" width="45" alt="C"> &nbsp;
+<img src="img/sql.png" width="45" alt="SQL"> &nbsp;
+<img src="img/html.png" width="45" alt="HTML"> &nbsp;
+<img src="img/css.png" width="45" alt="CSS"> &nbsp;
+<img src="img/js.webp" width="45" alt="JS"> &nbsp;
+<img src="img/git.svg" width="45" alt="Git"> &nbsp;
+<img src="img/linux.png" width="45" alt="Linux">
 
 </div>
 
@@ -50,98 +57,3 @@
 ▰ JavaScript
 ▰ Git & GitHub
 ▰ Linux
-```
-
----
-
-## ⚡ goals
-
-<img align="right" src="img/Bot.gif" width="150">
-
-- Build useful projects
-- Improve my coding skills
-- Learn more about open source
-- Create games and applications
-- Become a better developer every day
-
-<br><br>
-
----
-
-## 🎮 things i enjoy
-
-<img align="right" src="img/megaman.gif" width="120">
-
-- Retro games
-- Minecraft
-- Pokémon
-- Linux customization
-- Music
-- Technology
-- Open-source software
-
-<br><br>
-
----
-
-## 📊 github stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🌐 find me around the web
-
-<div align="center">
-
-<a href="https://github.com/boredflush">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://open.spotify.com/user/BoredF.exe">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-
-<a href="https://steamcommunity.com/id/BoredFlush">
-<img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/_bored_flush">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 🧩 current status
-
-```text
-Coding..... ████████░░ 80%
-Learning... █████████░ 90%
-Sleep...... ██░░░░░░░░ 20%
-```
-
----
-
-<div align="center">
-
-<img src="img/megaman.gif" width="140">
-
-```c
-while (alive) {
-    learn();
-    code();
-    repeat();
-}
-```
-
-⭐ Thanks for visiting my profile!
-
-</div>
