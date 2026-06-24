@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/⌨_Developer-Beginner-0055FF?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center"><i>"learning one bug at a time."</i></p>
+<p align="center"><i>"Running through the Cyber world"</i></p>
 
 <p align="center">
   <img src="img/tenor.gif" width="320" />
