@@ -20,7 +20,6 @@
 </p>
 
 ---
-
 ## 🔗 connect with me
 
 <p align="center">
