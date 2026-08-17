@@ -65,16 +65,12 @@
 </p>
 
 ---
-
 ## 📘 github stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=boredflush&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=0000FF&text_color=0033CC&icon_color=0000FF&border_color=0000FF&bg_color=E8F0FF" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boredflush&layout=compact&langs_count=8&hide_border=false&cache_seconds=86400&title_color=0000FF&text_color=0033CC&border_color=0000FF&bg_color=E8F0FF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=boredflush&theme=transparent&title_color=0000FF&text_color=0033CC&icon_color=0000FF&border_color=0000FF&bg_color=E8F0FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=boredflush&layout=compact&theme=transparent&title_color=0000FF&text_color=0033CC&border_color=0000FF&bg_color=E8F0FF" />
+</p>
